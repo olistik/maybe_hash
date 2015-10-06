@@ -1,5 +1,7 @@
 # MaybeHash, only values and nil allowed
 
+![Travis-CI Build Status](https://travis-ci.org/olistik/maybe_hash.svg)
+
 ## Installation
 
 Add this line to your application's Gemfile:
