@@ -1,5 +1,6 @@
 # MaybeHash, only values and nil allowed
 
+![Travis-CI Build Status](https://travis-ci.org/olistik/maybe_hash.svg)
 [![Code Climate](https://codeclimate.com/github/olistik/maybe_hash/badges/gpa.svg)](https://codeclimate.com/github/olistik/maybe_hash)
 
 ## Installation
